@@ -28,12 +28,12 @@ Aplicação para gerenciamento de academia, a aplicação consiste em criar inst
 ## 🔖 Layout
 
 <h1 align="center">
-    <img alt="Menu-dos-Instrutores" title="Menu-dos-Instrutores" src=".github/menu-instructors.PNG" width="50%" />
+    <img alt="Menu-dos-Instrutores" title="Menu-dos-Instrutores" src=".github/menu-instructors.PNG"/>
     <img alt="Menu-dos-Membros" title="Menu-dos-Membros" src=".github/menu-members.PNG" />
-    <img alt="Instrutor" title="Instrutor" src=".github/instructors.PNG" />
+    <img alt="Instrutor" title="Instrutor" src=".github/instructor.PNG" />
     <img alt="Membro" title="Membro" src=".github/member.PNG" />
-    <img alt="Editor-dos-Instrutores" title="Editor-dos-Instrutores" src=".github/edit-instructors.PNG" />
-    <img alt="Editor-dos-Membros" title="Editor-dos-Membros" src=".github/edit-members.PNG" />
+    <img alt="Editor-dos-Instrutores" title="Editor-dos-Instrutores" src=".github/edit-instructor.PNG" />
+    <img alt="Editor-dos-Membros" title="Editor-dos-Membros" src=".github/edit-member.PNG" />
 </h1>
 
 ### Para executar o projeto
