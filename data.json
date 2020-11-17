@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/8353395/500x500",
+      "name": "Pedro r",
+      "email": "peperdneto@gmail.com",
+      "birth": 931305600000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "77",
+      "height": "177"
+    },
+    {
+      "id": "[object Object]1",
+      "avatar_url": "http://3",
+      "name": "JONATAN",
+      "email": "jhon@email",
+      "birth": 876355200000,
+      "gender": "M",
+      "blood": "AB-",
+      "weight": "89",
+      "height": "175"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6643122?s=460&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4",
+      "name": "Maik",
+      "birth": 960163200000,
+      "gender": "M",
+      "services": "Musculação,Calistenia",
+      "created_at": 1599350417794
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://th.bing.com/th/id/OIP.fCyyxd0gQOoesnC15fdjZAHaGf?pid=Api&rs=1",
+      "name": "dr. passaro",
+      "birth": 883612800000,
+      "gender": "M",
+      "services": "Zumba, Crosfit, Ciclismo",
+      "created_at": 1599424392523
+    }
+  ]
+}
